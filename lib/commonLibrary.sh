@@ -16,8 +16,6 @@ CURR_DIR=` pwd `
 main()
 {
 today
-exit 0
 }
 
 main $@
-exit 0
