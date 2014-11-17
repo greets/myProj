@@ -1,8 +1,0 @@
-#configuration file
-
-[main]
-user:divya
-vcs:git
-
-[sub]
-
