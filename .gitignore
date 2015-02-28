@@ -1,3 +1,4 @@
 #THis is a local .gitignore file
 #patterns listed here will ignore only local files and directories
-*.tmp
+#*.tmp
+#temp*
