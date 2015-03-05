@@ -7,7 +7,7 @@ main()
 echo "TimeStamp: " ` date "+%Y_%m_%d_%H:%M:%S" `
 #today 
 echo "Hello $LOGNAME !"
-echo "HOTFIX ADDED !!!"
+echo "Changes committed"
 }
 
 main $@
