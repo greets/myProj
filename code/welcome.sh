@@ -9,6 +9,9 @@ echo "TimeStamp: " ` date "+%Y_%m_%d_%H:%M:%S" `
 echo "Hello $LOGNAME !"
 echo "HOTFIX ADDED !!!"
 echo "quickfix branch"
+quickfix_func(){
+  echo "Bug fixed."
+}
 }
 
 main $@
