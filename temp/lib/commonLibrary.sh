@@ -1,6 +1,7 @@
 #!/bin/sh
 #Author: LOGNAME
 #Date: 9-Sep-2014
+#last modified: 15-Aug-2018
 #This is a library file, the library functions can be re-used in any code.
 
 today()
