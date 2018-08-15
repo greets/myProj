@@ -1,5 +1,5 @@
 #!/bin/sh
-#set -x
+#Library includes
 #. $GIT_WORKDIR/gitDemo/lib/commonLibrary.sh
 
 main()
