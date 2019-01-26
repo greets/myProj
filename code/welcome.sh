@@ -1,7 +1,7 @@
 #!/bin/sh
 #set -x
 #. $GIT_WORKDIR/gitDemo/lib/commonLibrary.sh
-
+#date
 main()
 {
 echo "TimeStamp: " ` date "+%Y_%m_%d_%H:%M:%S" `
