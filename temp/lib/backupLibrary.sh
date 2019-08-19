@@ -1,14 +1,3 @@
-#!/bin/sh
-#Author: LOGNAME
-#Date: 9-Sep-2014
-#This is a library file, the library functions can be re-used in any code.
-
-today()
-{
-echo "` date "+%Y%m%d_%H:%M:%S" `"
-}
-
-set_variables()
-{
-CURR_DIR=` pwd `
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3f1d348719ce0da8cb4975d4326cd63296b1b806bba80e379871e580a7452e0
+size 206
